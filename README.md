@@ -7,4 +7,4 @@ O backup do banco de dados da aplicação OCTOQUEST deve ser feita pela desenvol
 
 #UTILIZAR O BANCO
 
-Para a utilização de do banco de dados, basta baixar o arquivo ‘backup’, descompacta-lo e abri-lo em sua workbanch de preferência.
+Para a utilização do banco de dados 'OCTAQUEST', basta baixar o arquivo ‘backup’, descompacta-lo e abri-lo em sua workbanch de preferência.
